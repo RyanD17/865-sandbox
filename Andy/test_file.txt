@@ -4,5 +4,6 @@ test
 one
 two
 three
+four
 
 Kate was here.
